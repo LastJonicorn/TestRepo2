@@ -2,8 +2,8 @@
 <h2> Väliotsikko </h2>
 <p> Leipäteksti </p>
 <ul>
-    <li> Lista? </li>
+    <h2>TODO</h2>
+    <li> Asia1 </li>
+    <li> Asia2 </li>
 </ul>
-<li>
-  <h3> Lista? </h3>
-</li>
+
