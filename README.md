@@ -2,7 +2,7 @@
 <h2> Väliotsikko </h2>
 <p> Leipäteksti </p>
 <ul>
-    <h3> Lista? </h3>
+    <p> Lista? </p>
 </ul>
 <li>
   <h3> Lista? </h3>
