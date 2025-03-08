@@ -3,7 +3,7 @@ using UnityEngine.InputSystem; // Käytetään Unityn uutta Input Systemiä
 
 public class InputManager : MonoBehaviour
 {
-    private InputSystem_Actions inputActions; // Viite pelaajan syöttötoimintoihin
+    public InputSystem_Actions inputActions; // Viite pelaajan syöttötoimintoihin
     private PlayerMotor motor; // Viite PlayerMotor-komponenttiin, joka vastaa hahmon liikkeestä
     private PlayerLook look;
 
