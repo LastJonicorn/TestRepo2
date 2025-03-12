@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3D_Simple.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/3D_Simple 1.unity
+    guid: ba0022f0a16e71d4eb33655f4c57b1bf
+  - enabled: 1
+    path: Assets/Scenes/3D_Simple 2.unity
+    guid: 9dbf4ea8fed13ce479049bddc526e50c
+  - enabled: 1
+    path: Assets/Scenes/3D_Simple 3.unity
+    guid: 099c8cc8041e4ad4680df7dd2d2e869d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
