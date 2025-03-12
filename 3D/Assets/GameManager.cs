@@ -27,5 +27,6 @@ public class GameManager : MonoBehaviour
     public void LevelWon()
     {
         completeLevelUI.SetActive(true);
+        gameHasEnded = true;
     }
 }
